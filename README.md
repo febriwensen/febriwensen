@@ -20,6 +20,4 @@ Passionate developer who loves building things, exploring new tech, and sharing 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=febriwensen&show_icons=true&theme=radical&hide_border=true)  
 
 ## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/febriwensen/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat)](https://twitter.com/febriwensen)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=flat)](mailto:febriwensen@gmail.com)  
