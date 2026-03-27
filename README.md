@@ -17,7 +17,6 @@ Passionate developer who loves building things, exploring new tech, and sharing 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=flat)
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=febriwensen&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
 ![GitHub Streak](https://streak-stats.demolab.com?user=febriwensen&theme=radical&hide_border=true)
 
 ## 🌐 Connect
